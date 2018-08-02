@@ -1,2 +1,2 @@
 # PackageAnalyzer
-Predict a nuget package attributes using machine learning 
+Predicts a nuget package attributes like release date and download count using machine learning 
